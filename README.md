@@ -21,7 +21,7 @@ assembly) and game development (Unreal Engine 5, UEFN/Verse, Unity).
 
 ## Also
 
-- **Legacy project (Epitech, team of 8)**: the team took over an existing
+- **Legacy project (Epitech, team of 6)**: the team took over an existing
   to-do/kanban app and brought it to production (CI, Docker images, VPS
   deployment, monitoring). My part: migrating the backend to TypeScript, JWT
   signup/login on both ends, the email verification flow, unit tests on the

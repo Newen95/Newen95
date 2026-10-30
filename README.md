@@ -19,16 +19,6 @@ assembly) and game development (Unreal Engine 5, UEFN/Verse, Unity).
 | [**asm-minilibc**](https://github.com/Newen95/asm-minilibc) | Part of the C standard library rewritten in x86-64 assembly, tested against glibc | NASM - x86-64 |
 | [**Axstoria**](https://github.com/Newen95/Axstoria-Software) | End-of-studies project, team of 6: a Unity engine for virtual tabletop RPGs | Unity - C# |
 
-## Also
-
-- **Legacy project (Epitech, team of 6)**: the team took over an existing
-  to-do/kanban app and brought it to production (CI, Docker images, VPS
-  deployment, monitoring). My part: migrating the backend to TypeScript, JWT
-  signup/login on both ends, the email verification flow, unit tests on the
-  existing code, dependency fixes and the design-token UI pass.
-  Stack: React - Express - Go - RabbitMQ - MySQL - Prometheus/Grafana. *(private
-  school repository)*
-
 ## Tools
 
 Rust, C, C++, x86-64 assembly, Python, TypeScript, Vue, React,
